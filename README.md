@@ -1,5 +1,6 @@
-# 💫 About Me:
-<h2>Hi👋 My name is Rohan Gupta and I am a Fullstack Dev from INDIA</h2><br>🔭 I’m currently working on a cloud-native self healing system<br>🤝 I’m looking for Teammates for Hackathons <br>🌱 I’m currently learning about HomeLabs<br><br>
+
+# Hi👋 My name is Rohan Gupta, I am a Fullstack Dev from INDIA
+<br>🔭 I’m currently working on a<strong> cloud-native self healing system</strong><br>🤝 I’m looking for Teammates for Hackathons <br>🌱 I’m currently learning about <strong>HomeLabs</strong><br><br>
 
 
 ## 🌐 Socials:
